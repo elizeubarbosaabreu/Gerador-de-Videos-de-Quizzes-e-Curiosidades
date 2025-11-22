@@ -1,4 +1,4 @@
-#!/ bin/bash
+#!/bin/bash
 echo "Criando ambiente Python..."
 python3 -m venv videoenv
 echo "Ativando venv..."
