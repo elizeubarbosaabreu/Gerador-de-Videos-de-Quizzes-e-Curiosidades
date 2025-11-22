@@ -7,13 +7,13 @@ echo "Instalando as dependências..."
 pip install -r requirements.txt
 deactivate
 echo "Instalando os aplicativos..."
-mv shorts.py ~/.local/bin/shorts
-chmod +x ~/.local/bin/shorts
-mv quiz.py ~/.local/bin/quiz
-chmod +x ~/.local/bin/quiz
-mv videoenv ~/.local/share/videoenv -rf
+mv shorts.py $HOME/.local/bin/shorts
+chmod +x $HOME/.local/bin/shorts
+mv quiz.py $HOME/.local/bin/quiz
+chmod +x $HOME/.local/bin/quiz
+mv videoenv $HOME/.local/share/videoenv -rf
 mv quiz.zip $HOME/Modelos/quiz.zip
 
-echo "Instalado com sucesso. POde gerar seus vídeos e ganhar muito dinheiro!"
+echo "Instalado com sucesso. Pode gerar seus vídeos e ganhar muito dinheiro!"
 
 

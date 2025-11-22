@@ -9,3 +9,5 @@
 5. Descompacte **quiz.zip**, utilize o prompt fornecido para gerar novas perguntas e respostas e adicioná-los a dados.csv
 6. Abra a pasta no terminal e execute `quiz`.
 7. Para gerar curiosidades execute `shorts`.
+
+Requerimentos: ollama

@@ -1,5 +1,5 @@
 gTTS==2.5.4
-pillow==10.2.0
+pillow<=9.0.0
 requests==2.31.0
 requests-file==1.5.1
 requests-toolbelt==1.0.0
