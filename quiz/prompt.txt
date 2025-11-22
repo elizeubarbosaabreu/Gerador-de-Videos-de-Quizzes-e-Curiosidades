@@ -1,0 +1,7 @@
+Gere exatamente 50 perguntas de quiz curiosas, todas diferentes, interessantes e curtas.
+Responda somente no formato CSV, com uma linha por pergunta, seguindo rigorosamente o modelo abaixo:
+
+"Pergunta","a)","b)","c)","d)","correta"
+"Qual animal dorme menos?","Girafa","Tigre","Elefante","Cavalo","a) Girafa"
+"Qual planeta gira mais rápido?","Vênus","Júpiter","Marte","Terra","b) Júpiter"
+...
